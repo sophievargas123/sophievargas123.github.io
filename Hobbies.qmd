@@ -1,3 +1,31 @@
 ---
 title: "Hobbies"
+toc: FALSE
+about: 
+  template: jolla
+  links:
+    - text: UCSB Womens Soccer
+      href: https://ucsbgauchos.com/sports/womens-soccer  
 ---
+
+## Soccer
+
+![](images/IMG_1126-01.JPG){fig-align="center" width="317"}
+
+I started playing soccer when I was four years old and just finished my career this year with the UCSB Women's Soccer team.
+
+## Travel
+
+![](images/IMG_9933.jpeg){fig-align="left" width="219"}
+
+![](images/ccbcbfd2-8c58-4e10-b4e9-949fec30ef16.jpg){fig-align="center" width="226"}
+
+![](images/f942591f-ff99-4b46-b068-49007aa6eac8.jpg){fig-align="right" width="222"}
+
+I love to travel! Weather it is camping, backpacking, road tripping, or overseas, I am having a blast. This was one of my most memorable trips. I was lucky enough to go to South America to visit family and backpack in Patagonia.
+
+## Cooking
+
+![](images/IMG_4879.jpeg){fig-align="center" width="236"}
+
+I love experimenting and learning about food! I have found so much joy in expanding my skills in the kitchen. I have been growing my own vegetables in a garden bed and attending the local farmers markets to get my ingredients for the week. It has been very special knowing where my food is coming from and it is important for me to understand the culture behind various foods I am eating.
