@@ -9,8 +9,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "sophievargas123.github.io",
+    "title": "Sophie Vargas",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n# Remove the existing 'origin' remote\nusethis::use_git_remote(\"origin\", url = NULL, overwrite = TRUE)\n\n✔ Setting active project to '/Users/sophievargas/Desktop/Github\n193DS/sophievargas123.github.io'\n\n# Add a new 'origin' remote\nusethis::use_git_remote(\"origin\", url = \"https://github.com/sophievargas123/sophievargas123.github.io.git\")\n\n\n#install.packages(\"usethis\")\n\n\nusethis::use_git()\n\n\n#usethis::use_github()"
+    "text": "Welcome to my website! My name is Sophie Vargas and I hope you enjoy getting to know me.\nI grew up in Healdsburg, California but have been living in Santa Barbara the past four years. I have a passion for protecting our environment and hope to pursue a career that allows me to fo this."
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Sophie Vargas",
+    "section": "",
+    "text": "Welcome to my website! My name is Sophie Vargas and I hope you enjoy getting to know me.\nI grew up in Healdsburg, California but have been living in Santa Barbara the past four years. I have a passion for protecting our environment and hope to pursue a career that allows me to fo this."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sophie Vargas",
+    "section": "Education",
+    "text": "Education\nB.S. Environmental Science UCSB (2024)"
+  },
+  {
+    "objectID": "index.html#lets-get-in-touch",
+    "href": "index.html#lets-get-in-touch",
+    "title": "Sophie Vargas",
+    "section": "Let’s get in touch",
+    "text": "Let’s get in touch\n(Links Provided at Bottom)\nEmail: sophiavargas@ucsb.edu\nPhone: (707)480-5161\nGitHub: https://github.com/sophievargas123/Workshop-8.git\nInstagram: @sophieevargas\n\n\n✔ Setting active project to '/Users/sophievargas/Desktop/Github\n193DS/sophievargas123.github.io'"
   }
 ]
