@@ -1,17 +1,50 @@
 ---
 title: "Sophie Vargas"
+image:  images/IMG_7979-01.jpeg 
+toc: FALSE
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: Email
+      href: mailto:sophiavargas@ucsb.edu 
+    - text: Phone
+      href: (707)480-5161 
+    - text: GitHub
+      href: https://github.com/sophievargas123/Workshop-8.git
+execute:
+  echo: false
 ---
 
-This is a Quarto website.
+## Hello!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my website! My name is Sophie Vargas and I hope you enjoy getting to know me.
+
+I grew up in Healdsburg, California but have been living in Santa Barbara the past four years. I have a passion for protecting our environment and hope to pursue a career that allows me to fo this.
+
+## Education
+
+B.S. Environmental Science UCSB (2024)
+
+## Let's get in touch
+
+(Links Provided at Bottom)
+
+Email: sophiavargas\@ucsb.edu
+
+Phone: (707)480-5161
+
+GitHub: https://github.com/sophievargas123/Workshop-8.git
+
+Instagram: @sophieevargas
 
 ```{r}
 # Remove the existing 'origin' remote 
 usethis::use_git_remote("origin", url = NULL, overwrite = TRUE)
 
 # Add a new 'origin' remote
-usethis::use_git_remote("origin", url = "https://github.com/sophievargas123/sophievargas123.github.io.git")
+#usethis::use_git_remote("origin", url = "https://github.com/sophievargas123/sophievargas123.github.io.git")
 
 ```
 
@@ -20,12 +53,9 @@ usethis::use_git_remote("origin", url = "https://github.com/sophievargas123/soph
 ```
 
 ```{r}
-usethis::use_git()
+#usethis::use_git()
 ```
 
 ```{r}
 #usethis::use_github() 
-```
-
-```{r}
 ```
