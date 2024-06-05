@@ -1,5 +1,5 @@
 ---
-title: "sophievargas123.github.io"
+title: "Sophie Vargas"
 ---
 
 This is a Quarto website.
@@ -7,14 +7,13 @@ This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
-# Remove the existing 'origin' remote
+# Remove the existing 'origin' remote 
 usethis::use_git_remote("origin", url = NULL, overwrite = TRUE)
 
 # Add a new 'origin' remote
 usethis::use_git_remote("origin", url = "https://github.com/sophievargas123/sophievargas123.github.io.git")
 
 ```
-
 
 ```{r}
 #install.packages("usethis")
@@ -26,4 +25,7 @@ usethis::use_git()
 
 ```{r}
 #usethis::use_github() 
+```
+
+```{r}
 ```
