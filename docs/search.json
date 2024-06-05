@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "sophievargas123.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n# Remove the existing 'origin' remote\nusethis::use_git_remote(\"origin\", url = NULL, overwrite = TRUE)\n\n✔ Setting active project to '/Users/sophievargas/Desktop/Github\n193DS/sophievargas123.github.io'\n\n# Add a new 'origin' remote\nusethis::use_git_remote(\"origin\", url = \"https://github.com/sophievargas123/sophievargas123.github.io.git\")\n\n\n#install.packages(\"usethis\")\n\n\nusethis::use_git()\n\n\n#usethis::use_github()"
+  }
+]
