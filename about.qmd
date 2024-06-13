@@ -5,7 +5,7 @@ about:
   template: jolla
 ---
 
-## A little more about me! 
+## A little more about me!
 
 This website is a place for me to express myself and let others get to know me.
 

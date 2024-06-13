@@ -9,8 +9,6 @@ about:
   links:
     - text: Email
       href: mailto:sophiavargas@ucsb.edu 
-    - text: Phone
-      href: (707)480-5161 
     - text: GitHub
       href: https://github.com/sophievargas123/Workshop-8.git
 execute:
@@ -21,7 +19,7 @@ execute:
 
 Welcome to my website! My name is Sophie Vargas and I hope you enjoy getting to know me.
 
-I grew up in Healdsburg, California but have been living in Santa Barbara the past four years. I have a passion for protecting our environment and hope to pursue a career that allows me to fo this.
+I grew up in Healdsburg, California but have been living in Santa Barbara the past four years. I have a passion for protecting our environment and hope to pursue a career that allows me to do this.
 
 ## Education
 
