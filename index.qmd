@@ -15,7 +15,7 @@ execute:
   echo: false
 ---
 
-## Hello!
+## Hello! 
 
 Welcome to my website! My name is Sophie Vargas and I hope you enjoy getting to know me.
 
