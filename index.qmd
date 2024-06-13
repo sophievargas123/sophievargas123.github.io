@@ -44,6 +44,8 @@ usethis::use_git_remote("origin", url = NULL, overwrite = TRUE)
 # Add a new 'origin' remote
 #usethis::use_git_remote("origin", url = "https://github.com/sophievargas123/sophievargas123.github.io.git")
 
+
+
 ```
 
 ```{r}
