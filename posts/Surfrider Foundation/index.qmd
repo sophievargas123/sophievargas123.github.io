@@ -1,0 +1,32 @@
+---
+title: "Surfrider Foundation!"
+toc: FALSE
+about: 
+  template: jolla
+---
+
+I am the chair of the Ocean Friendly Restaurants committee in the Isla Vista Surfrider Club at UCSB and my committee recently began a project to incentivise on-campus shops to use reusable mugs. Here is our proposal:
+
+**Isla Vista Surfrider**
+
+### Surfrider Reusable Mug Program
+
+### OVERVIEW
+
+When walking through a college campus, one of the most common accessories seen is the coffee cup. The caffeine that coffee shops on campus fuel students and faculty alike in their academic pursuits. But one aspect that is often overlooked when everyone is purchasing their daily buzz is the plastic cups they often come in. They are just one example of the 300 million tons of plastic that we produce each year. Especially as a university proudly on the beach, we are calling to action for residents and business owners to become more aware of the microplastics that these cups break up into that often end up polluting our waters and negatively impacting human and coastal health. The Surfrider Reusable Mug Program is an initiative to promote environmental sustainability on the UC Santa Barbara campus by decreasing, and potentially getting rid of altogether, single-use mugs.
+
+### IMPLEMENTATION STRATEGY
+
+Using the Mug Drive program, Isla Vista Surfrider will oversee the collection of reusable mugs. To ensure effective tracking and promotion, Surfrider will design stickers for each mug, featuring promotion for Coral Tree Cafe. Additionally, customers will have the option to bring in their own mugs. Upon the initial purchase with a reusable mug, customers will be given a loyalty card. With each subsequent purchase made using the reusable mug, customers will receive a stamp on their loyalty card as an incentive. An alternative idea would be to put a QR code on each mug and keep track of them digitally. This method would rely less on the honors system, but would require work on the online side to create a way to monitor the mugs.
+
+### REWARD SYSTEM
+
+After a certain number of purchases, customers will become eligible for rewards, such as a complimentary pastry or beverage, or a 50% discount on their next purchase. This rewards system not only encourages repeated use of reusable mugs but also promotes customer loyalty.
+
+### OUTCOMES
+
+Transitioning to reusable mugs would be a pivotal step towards mitigating pollution and reducing carbon footprints at UC Santa Barbara. This would contribute to the preservation of our coastal ecosystems that we are so proud of. Moreover, this initiative serves as a prime educational opportunity within our institution, as a frontrunner in academia and innovation. Implementing this initiative would provide an opportunity to educate the campus community on the importance of reducing single-use plastic use. 
+
+Furthermore, the reusable mugs would have substantial long-term cost savings for Coral Tree Cafe. By eliminating the recurring expenses associated with purchasing single-use cups, this initiative would allow for a more economically viable and environmentally conscious business model. This shift not only aligns with our institutional values but also underscores our commitment to sustainable practices.
+
+![](images/IMG_9053.jpeg){fig-align="center"}

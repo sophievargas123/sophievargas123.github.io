@@ -1,0 +1,14 @@
+---
+title: "A Little More About Me!"
+toc: FALSE
+about: 
+  template: jolla 
+---
+
+## A little more about me!
+
+This website is a place for me to express myself and let others get to know me.
+
+Meet my dogs! Osha, Woody, and Frida are having a blast at the river. I like to think of this as their personality picture.
+
+![](images/IMG_1581.jpeg){fig-align="center"}
