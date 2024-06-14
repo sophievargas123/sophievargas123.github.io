@@ -1,45 +1,34 @@
 ---
 title: "Résumé"
+toc: FALSE
+about: 
+  template: jolla
 ---
 
-## Education
-
-University of California, Santa Barbara - Santa Barbara, CA 2024 Bachelor of Science - Environmental Studies
-
-Wildlands Field Studies Program - Ecological Research on Tropical Reefs and Rainforests in Northern Queensland, Australia, Summer of 2023
+## ![](images/Image 6-13-24 at 5.21 PM.jpg){width="551"}
 
 ## Work Experience
 
 ### Caselle Lab Intern - UCSB - Fall 2023 and Winter/Spring 2024
 
-Analyze Palmyra BRUV videos under Peter carlson and Jen Caselle
+During this internship I was able to analyze Palmyra BRUV videos under Peter Carlson and Jen Caselle. I focused on understanding the ecological relationships between parrotfish herbivory and various spatial scales that impact benthic communities. It has been such an amazing experience and I am exciting to continue my work this summer!
 
-Focus on understanding the ecological relationships between parrotfish herbivory and various spatial scales that impact benthic communities
+![](images/IMG_8570.jpeg){fig-align="center"}
 
 ### Pre-Med Internship in Family Medicine - Healdsburg, CA Summer 2022
 
-Warmly greeted and checked in patients in the front office
+A few years ago I did a summer internship for a family doctor in my hometown. I warmly greeted and checked in patients in the front office, took vital signs, assessed patient complaints, participated in examinations and discussion of diagnosis, and collaborated on treatment strategies and helped arrange follow-up appointments. I was very lucky to have this experience and gained important experience.
 
-Took vital signs
-
-Assessed their complaints
-
-Participated in examinations and discussion of diagnosis
-
-Collaborated on treatment strategies and helped arrange follow-up appointments
+![](images/IMG_6859.jpeg){fig-align="center"}
 
 ### Campo Fina Restaurant Back Waiter - Healdsburg, California - Spring 2019
 
-Efficiently assisted wait staff with cleaning Set and cleared tables Refilled drinks Accommodated guests.
+In highschool I had my first offical job as a back waiter at my favorite restaurant. I efficiently assisted wait staff with cleaning, set and cleared tables, refilled drinks, and accommodated guests. This was a great environment and overall exciting experience.
 
-## Special Skills and Attributes
-
-UCSB Women’s Soccer Team - NCAA Division I - 2020-2023
-
-Team player and demonstrated leader, good communication, organizational, and time-management skills.
-
-20 hours a week + games on weekends, occasionally traveling
+![](images/IMG_8931.jpeg){fig-align="center"}
 
 ### Isla Vista Surfrider - Chair of Ocean Friendly Restaurants Committee - 2022-2023
 
-Effectively facilitate weekly meetings and group projects convincing local restaurants in our community to become more sustainable.
+In the fall of my junior year here at UCSB I joined the UCSB Surfrider foundation club. I quickly grew fond of the work we did and the people I was collaborating with. I then decided to become the chair of my committee and this past year have been able to effectively facilitate weekly meetings and group projects and convince local restaurants in our community to become more sustainable.
+
+![](images/IMG_8449.jpeg){fig-align="center"}
